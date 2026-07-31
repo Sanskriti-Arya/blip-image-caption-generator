@@ -1,0 +1,8 @@
+torch
+transformers
+accelerate
+sentencepiece
+pillow
+matplotlib
+pandas
+gradio
